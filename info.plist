@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.0.129/ios/release.ipa</string>
+					<string>http://47.106.22.9:7070/Web/ios/iphone.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://192.168.0.129/ios/icon.png</string>
+					<string>http://47.106.22.9:7070/Web/ios/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://192.168.0.129/ios/icon.png</string>
+					<string>http://47.106.22.9:7070/Web/ios/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.FYYL.QP</string>
 				<key>bundle-version</key>
-				<string>0.101.0</string>
+				<string>1.0.24</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
